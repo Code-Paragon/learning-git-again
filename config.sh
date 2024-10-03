@@ -1,2 +1,2 @@
 this shell configs new severs
-editted for rebase
+editted for rebase yum um
