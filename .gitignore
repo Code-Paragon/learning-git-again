@@ -1,2 +1,7 @@
-.idea/*
-Mythought.txt/*
+<<<<<<< HEAD
+.idea/
+Mythought.txt/
+=======
+.idea/
+Mythought.txt/
+>>>>>>> main
